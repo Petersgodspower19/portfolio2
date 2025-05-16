@@ -35,7 +35,7 @@ function Slick() {
           <Slider {...settings}>
             {icons.map((Icon, index) => (
               <div key={index} className='flex justify-center items-center'>
-                <Icon className="text-black text-3xl md:text-5xl hover:text-white transition duration-300" />
+                <Icon className="text-white text-3xl md:text-5xl hover:text-[hsl(0,0%,95%)] transition duration-300" />
               </div>
             ))}
           </Slider>
