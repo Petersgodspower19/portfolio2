@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hi, I'm Peters Godspower!
 
-## Getting Started
+I'm a passionate full-stack developer who enjoys building creative, meaningful web experiences. My work spans across frontend and backend development — from crafting sleek UIs in React to building robust APIs with Node.js and Express, and working with databases like MySQL and MongoDB.
 
-First, run the development server:
+I enjoy learning new technologies, working on real-world apps, and bringing ideas to life through code. Whether it's a blog platform, a personal assistant site, or a real-time polling app, I'm always eager to create solutions that are both functional and visually engaging.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Tech Stack
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### 🛠 Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+</p>
+<p align="left">
+  <!-- Mongoose (using MongoDB logo) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Mongoose" width="40" height="40"/>
 
-## Learn More
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 
-To learn more about Next.js, take a look at the following resources:
+  <!-- Tailwind CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+**Frontend**
+- React.js, Next.js
+- Tailwind CSS, CSS3, HTML5
+- Redux Toolkit, React Router
+- ReactQuill, Slick Carousel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Backend**
+- Node.js, Express.js
+- MongoDB, Mongoose
+- MySQL, Sequelize
+- JWT Authentication, REST APIs
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Other Tools**
+- Git & GitHub
+- Postman
+- Vercel, Netlify
+- Socket.IO
+
+---
+
+## 📌 Projects
+
+Here are a few of the projects I'm most proud of:
+
+- **Blog** – A full-stack blog platform with authentication, rich text editing, and author/follow features. [React, Node.js, MongoDB]
+- **Kreivin** – A hospitality vlog website with a YouTube-integrated showcase and seasonal event highlights. [React, Video Background, Vercel]
+- **Pollify** – A real-time voting application using Express, MongoDB, and WebSockets. [Next.js, Socket.IO]
+
+More projects in my pinned repos below!
+
+---
+
+## 📈 GitHub Stats
+
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petersgodspower19&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Petersgodspower19&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+I'm open to collaboration, freelance opportunities, and any cool project ideas.  
+Feel free to reach out:
+
+- [LinkedIn] (https://www.linkedin.com/in/peters-godspower-51a523314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Email](mailto:petersgodspower95@gmail.com)
+
+Thanks for stopping by!
