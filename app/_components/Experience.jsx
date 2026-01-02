@@ -11,7 +11,7 @@ const experiences = [
   {
     period: "2025",
     title: "Frontend Developer Intern",
-    company: "Stargrades International",
+    company: "Stargrades Nigeria",
     companyUrl: "https://www.instagram.com/stargradeshq?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
     description:
       "Assisted in developing frontend interfaces, implementing responsive layouts, and integrating REST APIs. Gained hands-on experience working on real production features and improving user interface consistency.",
